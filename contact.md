@@ -3,19 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [gmo5119@psu.edu](mailto:@psu.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=SqBr5pYAAAAJ&hl=en)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Westgate Building, University Park, PA 16802
 >
-> London
->
-> United Kingdom
 
 ---
 
