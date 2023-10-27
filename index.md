@@ -4,20 +4,19 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="placeholder.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Lorem ipsum.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Probabilistic Algorithms, Theoretical Machine Learning/Optimization, Deep Learning, Quantum In- formation Processing, Quantum Computing.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1.  Guneykan Ozgul, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions, 2023. https://arxiv.org/ abs/2310.11445. Preprint.
 
 ## Typography
 
@@ -27,9 +26,9 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2014 | blah  | blah, blah
+2015 | blah | blah ,blah
+2014 | blah | blah, blah
 
 Here is a horizontal rule
 
@@ -37,9 +36,9 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> blah, blah
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* blah, blah
+* blah, blah
