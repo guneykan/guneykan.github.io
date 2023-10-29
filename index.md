@@ -16,14 +16,21 @@ I am a third-year CS Theory PhD student at Penn State.
 
 * [Github](https://github.com/guneykan)
 
-You can find my [resume](resume.pdf). 
+You can find my resume [here](resume.pdf). 
 ## Research Interests
 
-Probabilistic Algorithms, Theoretical Machine Learning/Optimization, Deep Learning, Quantum Information Processing, Quantum Computing.
+Probabilistic Algorithms, Theoretical Machine Learning/Optimization, Deep Learning, Quantum Information Processing, Quantum Machine Learning, Quantum Optimization.
 
 ## Publications
 
-1.  **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions, 2023. Preprint. [Link](https://arxiv.org/abs/2310.11445)
+1.  **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions, 2023. Preprint. [Link](https://arxiv.org/abs/2310.11445).
+
+
+## Education
+B.S. Computer Engineering / Physics, Boğaziçi University, 2012-2018
+
+Ph.D. Computer Science and Engineering, Pennsylvania State University, 2021-Present
+
 
 ## Teaching 
 
