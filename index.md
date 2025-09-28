@@ -6,27 +6,30 @@ layout: default
 
 <img class="profile-picture" src="pp.jpeg">
 
-I am a third-year CS Theory PhD student in [Optimization and Machine Learning Lab](https://www.cse.psu.edu/~mzm616/lab/) at Penn State. 
+I am a quantum computing researcher at JPMorgan Chase & Co., with a Ph.D. in Computer Science from Pennsylvania State University.
+
+My research focuses on developing both classical and quantum algorithms for large-scale sampling and optimization, with an emphasis on provable performance guarantees.
 
 * Advisors: [Mehrdad Mahdavi](https://www.cse.psu.edu/~mzm616/), [Chunhao Wang](https://www.chunhaowang.com/)
 
-You can find my resume [here](resume.pdf). 
+You can find my CV [here](resume.pdf). 
 
 See also: [Google Scholar](https://scholar.google.com/citations?user=SqBr5pYAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/guneykan-ozgul/), [Github](https://github.com/guneykan).
 
 ## Research Interests
 
-Probabilistic Algorithms, Theoretical Machine Learning/Optimization, Deep Learning, Quantum Information Processing, Quantum Machine Learning, Quantum Optimization.
+Optimization, Sampling, Theoretical Computer Science, Quantum Computing
 
-## Publications
-
-1.  **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions, 2023. Preprint. [Link](https://arxiv.org/abs/2310.11445).
-
+## Publications and Preprints
+1. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang.Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization, 2025. [arxiv preprint]
+2. Shouvanik Chakrabarti, Dylan Herman, Guneykan Ozgul, Shuchen Zhu, Brandon Augustino, Tianyi Hao, Zichang He, Ruslan Shaydulin, Marco Pistoia. Generalized Short Path Algorithms: Towards Super-Quadratic Speedup over Markov Chain Search for Combinatorial Optimization. [TQC 2025]
+3. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions. [ICML 2024]
 
 ## Education
-B.S. Computer Engineering / Physics, Boğaziçi University, 2012-2018
+Ph.D. Computer Science and Engineering, Pennsylvania State University, 2021-2025
+Dissertation: Quantum Algorithms for Markov Chain Methods In Machine Learning and Optimization ([link](https://etda.libraries.psu.edu/catalog/23460gmo5119))
 
-Ph.D. Computer Science and Engineering, Pennsylvania State University, 2021-Present
+B.S. Computer Engineering / Physics, Boğaziçi University, 2012-2018
 
 
 ## Teaching 
@@ -38,7 +41,3 @@ Ph.D. Computer Science and Engineering, Pennsylvania State University, 2021-Pres
 * CMPSC 448 (Machine Learning and Algorithmic AI), Spring 2022, TA
  
 * CMPSC 497 (Introduction to Quantum Computing), Fall 2021, TA
-
->"*In theory, there is no difference between theory and practice.*"
-> -Yogi Berra
-
