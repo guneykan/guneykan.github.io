@@ -6,11 +6,13 @@ layout: default
 
 <img class="profile-picture" src="pp.jpeg">
 
-I am a quantum computing researcher at JPMorgan Chase & Co., with a Ph.D. in Computer Science from Pennsylvania State University.
+I am currently associate quantum computing researcher at JPMorgan Chase & Co..
 
-My research focuses on developing both classical and quantum algorithms for large-scale sampling and optimization, with an emphasis on provable performance guarantees.
+Previously I received my Ph.D. in Computer Science from Pennsylvania State University.
 
 * Advisors: [Mehrdad Mahdavi](https://www.cse.psu.edu/~mzm616/), [Chunhao Wang](https://www.chunhaowang.com/)
+
+My research focuses on developing both classical and quantum algorithms for large-scale sampling and optimization, with an emphasis on provable performance guarantees.
 
 You can find my CV [here](resume.pdf). 
 
