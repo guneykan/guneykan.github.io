@@ -24,7 +24,7 @@ Optimization, Sampling, Theoretical Computer Science, Quantum Computing
 
 ## Publications and Preprints
 1. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang.Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization, 2025. [arxiv preprint]
-2. Shouvanik Chakrabarti, Dylan Herman, Guneykan Ozgul, Shuchen Zhu, Brandon Augustino, Tianyi Hao, Zichang He, Ruslan Shaydulin, Marco Pistoia. Generalized Short Path Algorithms: Towards Super-Quadratic Speedup over Markov Chain Search for Combinatorial Optimization. [TQC 2025]
+2. Shouvanik Chakrabarti, Dylan Herman, **Guneykan Ozgul**, Shuchen Zhu, Brandon Augustino, Tianyi Hao, Zichang He, Ruslan Shaydulin, Marco Pistoia. Generalized Short Path Algorithms: Towards Super-Quadratic Speedup over Markov Chain Search for Combinatorial Optimization. [TQC 2025]
 3. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions. [ICML 2024]
 
 ## Education
