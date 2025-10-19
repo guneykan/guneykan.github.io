@@ -23,9 +23,10 @@ See also: [Google Scholar](https://scholar.google.com/citations?user=SqBr5pYAAAA
 Optimization, Sampling, Theoretical Computer Science, Quantum Computing
 
 ## Publications and Preprints
-1. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang.Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization, 2025. [arxiv preprint]
-2. Shouvanik Chakrabarti, Dylan Herman, **Guneykan Ozgul**, Shuchen Zhu, Brandon Augustino, Tianyi Hao, Zichang He, Ruslan Shaydulin, Marco Pistoia. Generalized Short Path Algorithms: Towards Super-Quadratic Speedup over Markov Chain Search for Combinatorial Optimization. [TQC 2025]
-3. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions. [ICML 2024]
+1. Dylan Herman, **Guneykan Ozgul**, Anuj Apt, Junhyung Lyle Kim, Anupam Prakash, Jiayu Shen, Shouvanik Chakrabarti. Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions, 2025. [preprint Arxiv 2510.03385]
+2. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization, 2025. [preprint Arxiv 2504.03626]
+3. Shouvanik Chakrabarti, Dylan Herman, **Guneykan Ozgul**, Shuchen Zhu, Brandon Augustino, Tianyi Hao, Zichang He, Ruslan Shaydulin, Marco Pistoia. Generalized Short Path Algorithms: Towards Super-Quadratic Speedup over Markov Chain Search for Combinatorial Optimization. [TQC 2025]
+4. **Guneykan Ozgul**, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang. Stochastic quantum sampling for non-logconcave distributions and estimating partition functions. [ICML 2024]
 
 ## Education
 Ph.D. Computer Science and Engineering, Pennsylvania State University, 2021-2025
