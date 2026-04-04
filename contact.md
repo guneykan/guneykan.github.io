@@ -7,6 +7,4 @@ is_contact: true
 * E-mail: [guneykanozgul@gmail.com](mailto:@gmail.com)
 
 
-## Mailing Address
-
 
