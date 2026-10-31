@@ -1,0 +1,27 @@
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <meta name="theme-color" content="#ffffff">
+    {% if page.title %}
+        {% assign full_title = page.title | append: " · " | append: site.title %}
+    {% else %}
+        {% assign full_title = site.title | append: " · " | append: site.headline %}
+    {% endif %}
+    {% assign desc = page.description | default: site.description %}
+    <title>{{ full_title }}</title>
+    <meta name="description" content="{{ desc | strip }}">
+    <meta name="author" content="{{ site.author }}">
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url={{ '/' | relative_url }}">
+    {% endif %}
+    <link rel="canonical" href="{{ page.canonical_url | default: page.url | absolute_url }}">
+    <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
+
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="{{ full_title }}">
+    <meta property="og:description" content="{{ desc | strip }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ site.profile_picture | absolute_url }}">
+    <meta name="twitter:card" content="summary">
+
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">

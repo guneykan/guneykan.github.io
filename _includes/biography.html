@@ -1,0 +1,15 @@
+<section class="intro" id="about" aria-labelledby="about-title">
+    <h2 id="about-title">About</h2>
+    <figure class="portrait">
+        <img src="{{ site.profile_picture | relative_url }}" alt="Portrait of {{ site.author }}" width="627" height="640">
+    </figure>
+    <div class="intro-copy">
+        <div class="intro-prose">
+            {{ include.biography }}
+        </div>
+        <p class="profile-links">
+            {% for link in site.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a>{% endfor %}
+            <a href="mailto:{{ site.email }}">Email</a>
+        </p>
+    </div>
+</section>

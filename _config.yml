@@ -1,17 +1,35 @@
 title: Guneykan Ozgul
-#url: "https://guneykan.github.io"
-#baseurl: "/researcher"
+author: Guneykan Ozgul
+headline: Quantum Computing Researcher
+affiliation: JPMorgan Chase
+location: New York, NY
+description: >-
+  Guneykan Ozgul is a quantum computing researcher at JPMorgan Chase working on
+  quantum algorithms for optimization and sampling.
+url: "https://guneykan.github.io"
+baseurl: ""
+
+profile_picture: /profile.jpg
+email: guneykanozgul@gmail.com
+resume: /resume.pdf
+
+links:
+  - name: Google Scholar
+    url: "https://scholar.google.com/citations?user=SqBr5pYAAAAJ&hl=en"
+
+nav:
+  - name: About
+    link: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-footer: yes
-footer_url: "https://guneykan.github.io"
-footer_text: "https://guneykan.github.io/"
 
 sass:
     style: compressed
     sass_dir: _sass
 
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor

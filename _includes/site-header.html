@@ -1,0 +1,10 @@
+<header class="site-header">
+    <div class="container header-inner">
+        <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav" aria-label="Main navigation">
+            {% for item in site.nav %}
+                <a href="{{ item.link | relative_url }}"{% if page.url == item.link or item.name == "About" and page.layout == "home" %} aria-current="page"{% endif %}>{{ item.name }}</a>
+            {% endfor %}
+        </nav>
+    </div>
+</header>

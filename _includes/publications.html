@@ -1,0 +1,12 @@
+{% assign publication_heading = include.heading_level | default: 2 %}
+<ol class="publication-list">
+    {% for publication in site.data.publications %}
+        <li>
+            <article>
+                <h{{ publication_heading }}>{% if publication.url %}<a href="{{ publication.url }}" target="_blank" rel="noopener">{{ publication.title }}</a>{% else %}{{ publication.title }}{% endif %}</h{{ publication_heading }}>
+                <p class="authors">{{ publication.authors | replace: site.author, "<strong>Guneykan Ozgul</strong>" }}</p>
+                <p class="venue">{{ publication.venues | join: " · " }}</p>
+            </article>
+        </li>
+    {% endfor %}
+</ol>

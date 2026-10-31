@@ -1,0 +1,46 @@
+# Most recent first. Your name is bolded automatically.
+# Titles link to their arXiv or publisher records.
+- title: From Quantum Tunneling to Classical Optimization through Instantons
+  authors: Jiayu Shen, Dylan Herman, Guneykan Ozgul, Akshay Seshadri, Junhyung Lyle Kim, Shree Hari Sureshbabu, Shouvanik Chakrabarti, Niraj Kumar
+  venues: [Preprint 2026]
+  url: https://arxiv.org/abs/2610.06797
+
+- title: Quantum Simulation on Riemannian Manifolds
+  authors: Dylan Herman, Jacob Watkins, Guneykan Ozgul, Jiayu Shen, Brandon Augustino, Junhyung Lyle Kim, Shouvanik Chakrabarti
+  venues: [Preprint 2026]
+  url: https://arxiv.org/abs/2610.03673
+
+- title: Super-Quadratic Quantum Speedups for Combinatorial Optimization via Tilted Walks
+  authors: Guneykan Ozgul, Shouvanik Chakrabarti
+  venues: [Preprint 2026]
+  url: https://arxiv.org/abs/2609.40088
+
+- title: Near-Optimal Quantum Lower Bounds for Convex Optimization via Fourier Rank
+  authors: Brandon Augustino, Shouvanik Chakrabarti, Enrico Fontana, Dylan Herman, Junhyung Lyle Kim, Guneykan Ozgul, Nadezhda Voronova
+  venues: [Preprint 2026]
+  url: https://arxiv.org/abs/2609.09035
+
+- title: Quantum Speedups for Group Relaxations of Integer Linear Programs
+  authors: Brandon Augustino, Dylan Herman, Guneykan Ozgul, Jacob Watkins, Atithi Acharya, Enrico Fontana, Junhyung Lyle Kim, Shouvanik Chakrabarti
+  venues: [Preprint 2026]
+  url: https://arxiv.org/abs/2602.13494
+
+- title: Mechanisms for Quantum Advantage in Global Optimization of Nonconvex Functions
+  authors: Dylan Herman, Guneykan Ozgul, Anuj Apte, Junhyung Lyle Kim, Anupam Prakash, Jiayu Shen, Shouvanik Chakrabarti
+  venues: [Nature Communications, QIP 2026]
+  url: https://arxiv.org/abs/2510.03385
+
+- title: Quantum Speedups for Sampling and Non-convex Optimization with Stochastic Oracles
+  authors: Guneykan Ozgul, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang
+  venues: [TQC 2026]
+  url: https://arxiv.org/abs/2504.03626
+
+- title: "Generalized Short Path Algorithms: Towards Super-Quadratic Speedup over Markov Chain Search for Combinatorial Optimization"
+  authors: Shouvanik Chakrabarti, Dylan Herman, Guneykan Ozgul, Shuchen Zhu, Brandon Augustino, Tianyi Hao, Zichang He, Ruslan Shaydulin, Marco Pistoia
+  venues: [TQC 2025]
+  url: https://arxiv.org/abs/2410.23270
+
+- title: Stochastic Quantum Sampling for Non-logconcave Distributions and Estimating Partition Functions
+  authors: Guneykan Ozgul, Xiantao Li, Mehrdad Mahdavi, Chunhao Wang
+  venues: [ICML 2024]
+  url: https://proceedings.mlr.press/v235/ozgul24a.html

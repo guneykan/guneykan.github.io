@@ -1,0 +1,15 @@
+<section class="resume-section" aria-labelledby="education-title">
+    <h2 id="education-title">Education</h2>
+    <ol class="history-list">
+        {% for education in site.data.education %}
+            <li>
+                <div class="history-main">
+                    <h3>{{ education.degree }}</h3>
+                    <p>{{ education.school }}</p>
+                    {% for detail in education.details %}<p class="history-detail">{{ detail }}</p>{% endfor %}
+                </div>
+                <p class="dates">{{ education.dates }}</p>
+            </li>
+        {% endfor %}
+    </ol>
+</section>

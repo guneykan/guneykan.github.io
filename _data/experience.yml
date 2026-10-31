@@ -1,0 +1,23 @@
+# Most recent first. `details` is optional.
+- role: Applied Research Associate Sr
+  org: JPMorgan Chase
+  location: New York, NY
+  dates: 2025 – Present
+  details: Quantum algorithms research for optimization and sampling.
+
+- role: Applied Research Associate Sr Intern
+  org: JPMorgan Chase
+  location: New York, NY
+  dates: Summer 2024
+
+- role: Graduate Research Assistant
+  org: The Pennsylvania State University
+  location: State College, PA
+  dates: 2023 – 2025
+  details: Quantum algorithms for Markov chain methods in machine learning and optimization.
+
+- role: Graduate Teaching Assistant
+  org: The Pennsylvania State University
+  location: State College, PA
+  dates: 2021 – 2023
+  details: Introduction to Quantum Computing (CMPSC 497); Machine Learning and Algorithmic AI (CMPSC 448).
